@@ -4,10 +4,10 @@ Files for Midwest Reprap Festival
 Hollow Clock V
  https://www.instructables.com/Hollow-Clock-V/
 
-Impossible Passthru Pyramid
+Impossible Passthrough Pyramid
  https://makerworld.com/en/models/504525-impossible-pyramid-passthrough#profileId-451245
 
-Passthru Pyramid OpenScad code
+Passthrough Pyramid OpenScad code
  https://makerworld.com/en/models/663674-custom-impossible-passthrough-polygon-pyramid#profileId-590941
 
 Dial Box
