@@ -10,9 +10,6 @@ Impossible Passthrough Pyramid
 Passthrough Pyramid OpenScad code
  https://makerworld.com/en/models/663674-custom-impossible-passthrough-polygon-pyramid#profileId-590941
 
-Dial Box
- https://www.printables.com/model/689783-dial-box
-
 Stackable Shelves
  https://www.printables.com/model/1283877-stackable-shelves/files
 
